@@ -9,5 +9,5 @@ try {
 try {
     // code
 } catch (e) {
-    var foo = 10;
+    // log
 }
