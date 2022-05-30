@@ -4,3 +4,7 @@
 class A extends B {
     constructor() { }  // Would throw a ReferenceError.
 }
+
+class C {
+    constructor() { }
+}
