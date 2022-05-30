@@ -4,7 +4,7 @@ A: var foo = 0;
 
 B: {
     if (foo()) {
-        break A;
+        break B;
     }
     bar();
 }
