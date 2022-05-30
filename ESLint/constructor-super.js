@@ -3,7 +3,6 @@
 
 class A {
     constructor() {
-        super();  // This is a SyntaxError.
     }
 }
 
