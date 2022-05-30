@@ -1,4 +1,5 @@
 /*eslint no-with: "error"*/
+/*eslint no-const-assign: "off"*/
 
 with (point) {
     r = Math.sqrt(x * x + y * y); // is r a member of point?
