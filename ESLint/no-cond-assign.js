@@ -3,10 +3,11 @@
 // Unintentional assignment
 var x;
 if (x = 0) {
-    var b = 1;
+    // 1
 }
 
 // Assignment replaced by comparison
-if (x === 0) {
-    var b = 1;
+var y;
+if (y === 0) {
+    // 2
 }
