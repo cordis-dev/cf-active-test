@@ -2,6 +2,8 @@
 
 if (test) {
     function doSomething() { }
+    doSomething();
 }
 
-function doSomething() { }
+function doSomething2() { }
+doSomething2();
