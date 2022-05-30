@@ -1,5 +1,5 @@
 /*eslint no-unused-vars: "error"*/
-/*global some_unused_var*/
 
-// It checks variables you have defined as global
-some_unused_var = 42;
+// Write-only variables are not considered as used.
+var y = 10;
+y = 5;
