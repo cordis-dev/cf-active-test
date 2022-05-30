@@ -13,3 +13,6 @@ class C {
         this.a = 0; // OK, this class doesn't have an `extends` clause.
     }
 }
+
+console.log(A);
+console.log(C);
