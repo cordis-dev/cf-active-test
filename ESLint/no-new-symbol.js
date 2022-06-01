@@ -1,4 +1,3 @@
-/*eslint no-new-symbol: "error"*/
 /*eslint-env es6*/
 
 var foo = new Symbol('foo');

@@ -1,5 +1,3 @@
-/*eslint no-extra-semi: "error"*/
-
 var x = 5;;
 
 var y = 5;

@@ -1,5 +1,3 @@
-/*eslint no-useless-catch: "error"*/
-
 try {
   doSomethingThatMightThrow();
 } catch (e) {

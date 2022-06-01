@@ -1,5 +1,3 @@
-/*eslint no-constant-condition: "error"*/
-
 if (false) {
     doSomethingUnfinished();
 }

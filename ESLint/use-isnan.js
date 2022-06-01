@@ -1,5 +1,3 @@
-/*eslint use-isnan: "error"*/
-
 if (foo == NaN) {
     // ...
 }

@@ -1,5 +1,3 @@
-/*eslint no-dupe-keys: "error"*/
-
 var foo = {
     bar: "baz",
     bar: "qux"

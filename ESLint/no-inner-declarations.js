@@ -1,5 +1,3 @@
-/*eslint no-inner-declarations: "error"*/
-
 if (test) {
     function doSomething() { }
     doSomething();

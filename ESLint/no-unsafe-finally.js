@@ -1,4 +1,3 @@
-/*eslint no-unsafe-finally: "error"*/
 let foo = function() {
     try {
         return 1;

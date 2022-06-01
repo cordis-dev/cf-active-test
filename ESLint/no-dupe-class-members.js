@@ -1,5 +1,3 @@
-/*eslint no-dupe-class-members: "error"*/
-
 class Foo {
   bar() { }
   bar() { }

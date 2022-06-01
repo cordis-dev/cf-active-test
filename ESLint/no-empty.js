@@ -1,5 +1,3 @@
-/*eslint no-empty: "error"*/
-
 if (foo) {
 }
 

@@ -1,4 +1,3 @@
-/*eslint no-with: "error"*/
 /*eslint no-const-assign: "off"*/
 
 with (point) {

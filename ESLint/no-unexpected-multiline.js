@@ -1,5 +1,3 @@
-/*eslint no-unexpected-multiline: "error"*/
-
 var foo = bar
 (1 || 2).baz();
 

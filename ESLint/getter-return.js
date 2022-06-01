@@ -1,5 +1,3 @@
-/*eslint getter-return: "error"*/
-
 p = {
     get name(){
         // no returns.

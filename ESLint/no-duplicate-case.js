@@ -1,5 +1,3 @@
-/*eslint no-duplicate-case: "error"*/
-
 var a = 1;
 
 switch (a) {

@@ -1,5 +1,3 @@
-/*eslint no-extra-boolean-cast: "error"*/
-
 var foo = !!!bar;
 
 var foo2 = !!bar;

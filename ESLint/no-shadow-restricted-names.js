@@ -1,5 +1,3 @@
-/*eslint no-shadow-restricted-names: "error"*/
-
 function NaN(){}
 NaN();
 

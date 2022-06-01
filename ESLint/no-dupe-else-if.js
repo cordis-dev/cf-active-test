@@ -1,5 +1,3 @@
-/*eslint no-dupe-else-if: "error"*/
-
 if (isSomething(x)) {
     foo();
 } else if (isSomething(x)) {

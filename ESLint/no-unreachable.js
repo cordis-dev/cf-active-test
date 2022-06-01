@@ -1,5 +1,3 @@
-/*eslint no-unreachable: "error"*/
-
 function foo() {
     return true;
     console.log("done");

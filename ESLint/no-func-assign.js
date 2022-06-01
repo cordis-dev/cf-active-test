@@ -1,5 +1,3 @@
-/*eslint no-func-assign: "error"*/
-
 function foo() {}
 foo = bar;
 console.log(foo);

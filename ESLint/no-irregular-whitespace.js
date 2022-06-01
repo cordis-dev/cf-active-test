@@ -1,5 +1,3 @@
-/*eslint no-irregular-whitespace: "error"*/
-
 function thing() /*<NBSP>*/{
     return 'test';
 }

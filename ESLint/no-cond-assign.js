@@ -1,5 +1,3 @@
-/*eslint no-cond-assign: "error"*/
-
 // Unintentional assignment
 var x;
 if (x = 0) {

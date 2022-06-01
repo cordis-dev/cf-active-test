@@ -1,5 +1,3 @@
-/*eslint no-sparse-arrays: "error"*/
-
 var items = [,];
 
 var items2 = [];

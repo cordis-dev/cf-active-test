@@ -1,5 +1,3 @@
-/*eslint no-octal: "error"*/
-
 var num = 071;
 
 var num2  = "071";

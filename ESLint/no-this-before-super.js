@@ -1,4 +1,3 @@
-/*eslint no-this-before-super: "error"*/
 /*eslint-env es6*/
 
 class A extends B {

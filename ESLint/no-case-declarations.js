@@ -1,4 +1,3 @@
-/*eslint no-case-declarations: "error"*/
 /*eslint-env es6*/
 
 switch (foo) {

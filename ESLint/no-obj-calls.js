@@ -1,4 +1,3 @@
-/*eslint no-obj-calls: "error"*/
 /*eslint-env es2017*/
 
 var math = Math();

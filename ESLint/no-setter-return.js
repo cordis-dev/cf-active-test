@@ -1,5 +1,3 @@
-/*eslint no-setter-return: "error"*/
-
 var foo = {
     set a(value) {
         this.val = value;
