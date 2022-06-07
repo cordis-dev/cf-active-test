@@ -1,1 +1,1 @@
-some_unused_var = 42;
+var x;
