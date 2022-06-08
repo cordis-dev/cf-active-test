@@ -3,3 +3,10 @@ p {
   font-weight: 400;
   font-size: 1rem;
 }
+
+/* properties with the same value */
+p {
+  font-size: 16px;
+  font-size: 16px;
+  font-weight: 400;
+}
