@@ -1,6 +1,6 @@
 public class SA1510
 {
-  public class Test()
+  public void Test()
   {
     try
     {
