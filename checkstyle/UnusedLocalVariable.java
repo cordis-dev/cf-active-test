@@ -1,4 +1,4 @@
-public class UnusedVariable {
+public class UnusedLocalVariable {
     int a;
 
     {
