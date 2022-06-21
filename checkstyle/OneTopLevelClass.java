@@ -1,5 +1,5 @@
 public class OneTopLevelClass {
 }
 
-public class OneTopLevelClass2 {
+public class Test {
 }
