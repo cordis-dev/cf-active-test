@@ -1,5 +1,9 @@
 public class OneTopLevelClass {
 }
 
-public class Test {
+class Test {
+}
+
+record Foo3 { // violation, third top-level "class"
+  // methods
 }
