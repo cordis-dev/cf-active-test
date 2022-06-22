@@ -1,0 +1,2 @@
+# bad
+JSON.load("{}")
