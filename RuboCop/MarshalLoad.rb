@@ -1,0 +1,2 @@
+# bad
+Marshal.load("{}")
