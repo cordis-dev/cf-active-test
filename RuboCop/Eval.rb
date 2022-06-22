@@ -1,0 +1,3 @@
+# bad
+
+eval(something)
