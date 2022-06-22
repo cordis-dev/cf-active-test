@@ -4,6 +4,6 @@ def initialize
 end
 
 # good
-def initialize
+def initialize2
   @x = 1
 end
