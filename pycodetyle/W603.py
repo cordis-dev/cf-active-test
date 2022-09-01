@@ -1,1 +1,1 @@
-assert 'test' != 'testing'
+assert 'test' <> 'testing'
