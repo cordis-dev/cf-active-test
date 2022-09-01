@@ -1,2 +1,2 @@
-obj = MyObj()
-print(repr(obj))
+def f3(a):
+    return `a`
