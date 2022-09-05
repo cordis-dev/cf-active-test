@@ -1,5 +1,5 @@
 <?php
 
 if (true) {
-  // test
+  $var = 1;
 }
