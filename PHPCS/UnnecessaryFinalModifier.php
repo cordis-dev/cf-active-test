@@ -1,7 +1,12 @@
 <?php
 
-class Foo {
+final class Foo_Bar {
+    public $foobar;
     public final function fooBar() {}
+
+    protected function foo() {}
     protected final function fool() {}
-    private final function Bar() {}
+
+    private function Bar() {}
+    private final function Bard() {}
 }
