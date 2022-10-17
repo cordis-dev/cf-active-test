@@ -12,6 +12,15 @@ import (
 	"testing"
 )
 
-func Eq(cond, sub, alt string) ctrl {
-	return ctrl{BlockAMD64EQ, cond, []string{sub, alt}}
+// fun is the return type of Fun. It contains the created func
+// itself as well as indexes from block and value names into the
+// corresponding Blocks and Values.
+type fun struct {
+	f      *Func
+	blocks map[string]*Block
+	values map[string]*Value
+}
+
+func (c *Conf) Fun(entry string, blocs ...bloc) fun {
+	return fun{f, blocks, values}
 }
