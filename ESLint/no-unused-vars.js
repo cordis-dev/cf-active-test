@@ -2,7 +2,7 @@
 var y = 10;
 
 // global unused
-some_unused_var = 42;
+var global_var = 42;
 
 // after-used - unused positional arguments that occur before the last used argument will not be checked, but all named arguments and all positional arguments after the last used argument will be checked.
 (function(foo, bar, baz, qux) {
