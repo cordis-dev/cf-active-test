@@ -1,3 +1,26 @@
 // Write-only variables are not considered as used.
 var y = 10;
-y = 5;
+
+// global unused
+some_unused_var = 42;
+
+// after-used - unused positional arguments that occur before the last used argument will not be checked, but all named arguments and all positional arguments after the last used argument will be checked.
+(function(foo, bar, baz, qux) {
+    return qux;
+})();
+
+
+// caughtErrors
+try {
+    //...
+} catch (err) {
+    console.error("errors");
+}
+
+// Rest property sibling (ignoreRestSiblings)
+var { foo, ...coords } = data;
+
+// By default, unused arguments cause warnings.
+(function(foo) {
+    return 5;
+})();
