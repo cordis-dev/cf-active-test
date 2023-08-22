@@ -17,9 +17,6 @@ try {
     console.error("errors");
 }
 
-// Rest property sibling (ignoreRestSiblings)
-var { foo, ...coords } = data;
-
 // By default, unused arguments cause warnings.
 (function(foo) {
     return 5;
