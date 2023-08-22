@@ -1,6 +1,3 @@
-// Write-only variables are not considered as used.
-var y = 10;
-
 // global unused
 var global_var = 42;
 
@@ -18,6 +15,6 @@ try {
 }
 
 // By default, unused arguments cause warnings.
-(function(foo) {
+(function(arg1) {
     return 5;
 })();
