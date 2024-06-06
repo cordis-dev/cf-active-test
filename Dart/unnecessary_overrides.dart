@@ -1,6 +1,5 @@
-class A extends B {
+enum A {
+  a,b,c;
   @override
-  void foo() {
-    super.foo();
-  }
+  String toString() => super.toString();
 }
