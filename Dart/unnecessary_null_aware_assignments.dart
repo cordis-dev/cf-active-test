@@ -1,2 +1,4 @@
-var x;
-x ??= null;
+  void f() {
+    var x;
+    x ??= null;
+  }
