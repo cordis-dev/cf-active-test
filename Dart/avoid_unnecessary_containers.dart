@@ -1,13 +1,9 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
-Widget buildRow() {
+Widget f() {
   return Container(
-      child: Row(
-        children: <Widget>[
-          const Expanded(
-            child: Text('...'),
-          ),
-        ],
-      )
+    child: Row(),
+    width: 10,
+    height: 10,
   );
 }
