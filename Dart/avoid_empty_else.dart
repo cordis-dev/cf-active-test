@@ -1,0 +1,4 @@
+if (x > y)
+  print('1');
+else ;
+  print('2');
