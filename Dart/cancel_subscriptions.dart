@@ -1,6 +1,4 @@
-class A {
-  StreamSubscription _subscriptionA; // LINT
-  void init(Stream stream) {
-    _subscriptionA = stream.listen((_) {});
-  }
+import 'dart:async';
+void f(Stream stream) {
+  StreamSubscription s = stream.listen((_) {});
 }
