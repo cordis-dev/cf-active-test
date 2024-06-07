@@ -1,4 +1,8 @@
-if (x > y)
-  print('1');
-else ;
-  print('2');
+void f() {
+  var x = 0;
+  var y = 1;
+  if (x > y)
+    print('');
+  else ;
+    print('');
+}
