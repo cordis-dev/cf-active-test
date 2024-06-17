@@ -1,3 +1,4 @@
 void f() {
-  1 + 1;
+  var x;
+  x ??= null;
 }
