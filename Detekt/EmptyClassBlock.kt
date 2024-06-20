@@ -1,1 +1,2 @@
-class Empty
+class EmptyClass {
+}
