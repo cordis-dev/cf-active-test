@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "at-rule-empty-line-before": ["always"],
+	"comment-empty-line-before": ["always"]
+  }
+}
