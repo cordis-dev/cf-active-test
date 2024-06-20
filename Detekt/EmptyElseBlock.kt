@@ -4,6 +4,5 @@ fun main() {
     if (condition) {
         println("Condition is true")
     } else {
-        // Empty else block
     }
 }
