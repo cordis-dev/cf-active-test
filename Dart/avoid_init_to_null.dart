@@ -1,4 +1,4 @@
 class A {
   String? a;
-  A({this.a = null});
+  A({this.a});
 }

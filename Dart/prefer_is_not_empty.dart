@@ -1,1 +1,1 @@
-bool lne = ![1].isEmpty; // LINT [12:12]
+bool lne = [1].isNotEmpty; // LINT [12:12]
