@@ -3,6 +3,5 @@ void f() {
   var y = 1;
   if (x > y)
     print('');
-  else ;
     print('');
 }
