@@ -4,7 +4,7 @@ public class SA1508
   {
       get 
       { 
-          return this.enabled; 
+          return false; 
 
       }
   }

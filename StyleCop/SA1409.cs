@@ -4,7 +4,7 @@ public class SA1409
   {
     try
     {
-        this.Method();
+        this.Test();
     }
     finally
     {

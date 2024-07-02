@@ -1,15 +1,19 @@
 public class SA1510
 {
-  public void Test()
-  {
-    try
+    public void Test()
     {
-        SomeMethod();
+        try
+        {
+            SomeMethod();
+        }
+
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.ToString());
+        }
     }
 
-    catch (Exception ex)
+    public void SomeMethod()
     {
-        Console.WriteLine(ex.ToString());
     }
-  }
 }

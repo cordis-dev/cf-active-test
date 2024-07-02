@@ -7,7 +7,7 @@ public class SA1507
           Console.WriteLine("Getting the enabled flag.");
 
 
-          return this.enabled; 
+          return true; 
       }
   }
 }

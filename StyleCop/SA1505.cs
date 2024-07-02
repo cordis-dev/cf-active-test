@@ -6,7 +6,7 @@ public class SA1505
       get 
       { 
 
-          return this.enabled; 
+          return false; 
       }
   }
 }

@@ -5,7 +5,7 @@ public class SA1509
       get
 
       {
-          return this.enabled;
+          return false;
       }
   }
 }
