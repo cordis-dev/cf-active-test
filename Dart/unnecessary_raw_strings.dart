@@ -1,1 +1,1 @@
-var s1 = r'a';
+var s1 = 'a';

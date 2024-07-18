@@ -3,5 +3,5 @@ class Person {
 
   @override
   operator ==(Object? other) =>
-      other != null && other is Person && name == other.name;
+      other is Person && name == other.name;
 }
