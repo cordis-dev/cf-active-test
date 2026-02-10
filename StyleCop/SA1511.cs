@@ -6,7 +6,6 @@ public class SA1511
     {
         Console.WriteLine("Loop forever");
     }
-
     while (true);
   }
 }

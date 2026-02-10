@@ -6,7 +6,6 @@ public class SA1510
         {
             SomeMethod();
         }
-
         catch (Exception ex)
         {
             Console.WriteLine(ex.ToString());
