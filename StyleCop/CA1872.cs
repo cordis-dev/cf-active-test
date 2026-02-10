@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 
 namespace App;
 
@@ -8,11 +8,11 @@ public class CA1872
 
     public string Encode()
     {
-        return BitConverter.ToString(_data).Replace("-", "");
+        return Convert.ToHexString(_data);
     }
 
     public string EncodeToLower()
     {
-        return BitConverter.ToString(_data).Replace("-", "").ToLower();
+        return Convert.ToHexStringLower(_data);
     }
 }

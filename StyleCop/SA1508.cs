@@ -5,7 +5,6 @@ public class SA1508
       get 
       { 
           return false; 
-
       }
   }
 }
