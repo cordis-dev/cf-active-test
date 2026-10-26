@@ -1,0 +1,4 @@
+[package]
+name = "cf-active-clippy-edition2021"
+version = "0.1.0"
+edition = "2021"

@@ -1,0 +1,4 @@
+pub fn swap(a: &mut i32, b: &mut i32) {
+    *a = *b;
+    *b = *a;
+}
